@@ -1,5 +1,6 @@
 
 title: homunkulo
+baseurl: /project
 
 # Build settings
 markdown: kramdown
