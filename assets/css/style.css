@@ -6,19 +6,26 @@ display: none;
 }
 
 body {
-font-size: 20px;
+font-size: 18px;
 }
 
-h1 {
-    font-size: 40px;
+section {
+width: 600px;
 }
+
 
 a {
-    color: #0e785a;
-    text-decoration: none;
+color: #0e785a;
+text-decoration: none;
+font-weight:bold;
 }
 
 a:hover,a:focus {
 color:#0e785a;
+font-weight:bold;
+}
+
+h1 {
+font-size: 34px;
 font-weight:400;
 }
