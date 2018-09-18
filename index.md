@@ -7,4 +7,4 @@ Our architecture is based on three cornerstones:
 
 We use Python for the Machine Learning aspects and Go for the automated generation of code. Ideally, Homunkulo will be flexible enough to serve any target language.
 
-Feel free to contact us with questions or requests via <a href="https://github.com/orgs/homunkulo/people" title="Homunkulo GitHub" target="_blank">github.com/orgs/homunkulo/people</a>
+<a href="https://github.com/orgs/homunkulo/people" title="Homunkulo GitHub" target="_blank">Feel free to contact us with ideas, questions or requests!</a>
