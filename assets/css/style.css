@@ -21,3 +21,8 @@ h1 {
 font-size: 34px;
 font-weight:400;
 }
+
+mark {
+color: #000;
+font-weight:bold;
+}
