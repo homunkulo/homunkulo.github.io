@@ -17,9 +17,20 @@ color:#0e785a;
 font-weight: bold;
 }
 
+small a
+small a:hover,
+small a:focus {
+color:#727272;
+font-weight: bold;
+}
+
 h1 {
 font-size: 34px;
 font-weight:400;
+}
+
+small {
+    font-size: 13px;
 }
 
 .mark {
