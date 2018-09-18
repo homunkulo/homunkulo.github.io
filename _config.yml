@@ -1,10 +1,9 @@
 
 title: homunkulo
-baseurl: /project
+
 
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
-
