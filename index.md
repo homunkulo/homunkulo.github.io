@@ -1,6 +1,6 @@
 Homunkulo is committed to find solutions for this increasing problem. Can machine learning help construct, maintain and sustain connections between closed platforms? Is there a format as ubiquitous as the spoken or written language, in which services and users can exchange data?
 
-Our architecture is based on three cornerstones:
+The architecture is based on three cornerstones:
 
 - A format with which the problem domain can be described
 - A software that uses Machine Learning to compare this definition with the formats to be connected
